@@ -45,7 +45,9 @@
 * [Udemy The Complete Financial Analyst](https://drive.google.com/drive/folders/1WxLeL7oenG2HoxrN-MtOtMu4VRVmfJZZ?usp=sharing)
 * [EDX Data Science Orientation](https://drive.google.com/drive/folders/1h7OOr4gyp2h1SYc-GqdA7g59MlYfCEJp?usp=sharing)
 * [Udemy Basics of Scrum, Agile and Project](https://drive.google.com/drive/folders/1ePe9QsN1EsGSrZAAIUhJOSDRlarMZl4i?usp=sharing)
-* [EDX Analyzing and Visualizing Data with Excel](https://drive.google.com/drive/u/2/folders/1moyRQyi20__ivgWb9xW-A9ip0KqJeR_Z)
+* [EDX Analyzing and Visualizing Data with Excel](https://drive.google.com/drive/folders/1moyRQyi20__ivgWb9xW-A9ip0KqJeR_Z?usp=sharing)
+
+
 
   
 
